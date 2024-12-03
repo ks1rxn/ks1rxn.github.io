@@ -60,12 +60,14 @@ sidebar:
 career-profile:
     title: Резюме
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Как игровой разработчик имею большой опыт коммерческой разработки на Unity/C# (10 лет)
+      Участвовал в создании множества проектов под Android, IOS, WebGL. Специализируюсь на создании
+      клиентской части игровых проектов (UI, gameplay, сетевое взаимодействие). Также есть опыт разработки
+      на Unreal Engine/C++
+
+      В качестве backend разработчика работал около 3 лет. Изначально на Java с высоконагруженными биржевыми приложениями.
+      На данный момент работаю с PostgreSQL/Golang. Написание CRM, веб API для сервисов. Оптимизация запросов,
+      создание структуры базы.
 education:
     title: Образование
     info:
@@ -164,22 +166,37 @@ skills:
     title: Навыки
 
     toolset:
+      - name: SQL
+        level: 90%
+
+      - name: PostgreSQL
+        level: 70%
+
       - name: C#/Unity
         level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: C++/Unreal
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: Golang
+        level: 60%
+
+      - name: Java
+        level: 60%
+
+      - name: JavaScript
+        level: 40%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 30%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Git
+        level: 90%
 
-      - name: Sketch & Photoshop
+      - name: Jira
+        level: 90%
+
+      - name: Docker
         level: 60%
 
 footer: >
