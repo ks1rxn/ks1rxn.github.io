@@ -79,8 +79,40 @@ education:
 experiences:
     title: Опыт работы
     info:
+      - role: Разрабочик баз данных
+        time: 2023 - настоящее время
+        company: xSquare
+        website: https://xsquare.ru
+        details: |
+          Работа над серверной частью высоконагруженных веб-приложений в банковской и коммунальной сфере.
+            - Работа с базами данных PostgreSQL, Oracle
+            - Оптимизация запросов
+            - Написание хранимых функций на pl/pgsql, pl/sql
+            - Создание API для внешних сервисов
+            - Написание кода на Golang
+            - Создание фронтенда с использованием собыстенных разработок компании
+            - Написание небольших JavaScript функций
+            - Оценка задач
+        video:
+
+      - role: Разрабочик Unity
+        time: 2019 - 2023
+        company: Tech Round
+        website:
+        details: |
+          Работа над различными проектами ведущих мировых разрабочиков игр, включая Zynga, Jam City.
+            - Разработка нового функционала мобильных игр
+            - Оптимизация под Android, IOS, WebGL
+            - Взаимодействие с международной командой разработки
+            - Написание тестов
+            - Планирование и оценка задач
+            - Работа с Jira для отслеживания задач
+            - CI/CD и работа с Jenkins
+            - Разработка инструментария для автоматизированного тестирования геймплея
+        video:
+
       - role: Unity Developer
-        time: 2014 - Настоящее время
+        time: 2014 - 2019
         company: Gear Games
         website: aow3.gear-games.com
         details: |
@@ -108,6 +140,11 @@ projects:
     intro: >
       Небольшие проекты, созданные в свободное время. Самые законченные или интересные из них.
     assignments:
+      - title: Land of Honey and Wine
+        link: "https://hardworkers.itch.io/land-of-honey-and-wine"
+        tagline: "Градостроительный пазл, написанный на Unreal Engine 5"
+        video: "https://www.youtube.com/watch?v=VkyuXIimz2Y"
+
       - title: SpaceHackathon
         link: "https://github.com/ks1rxn/SpaceHackathon"
         tagline: "Unity/C#. Прототип мобильной космической аркады. Сейчас используется в качестве экспериментальной площадки для архитектурных экспериментов."
